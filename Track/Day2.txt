@@ -1,0 +1,3 @@
+So far today i finished my python intro course and now i am gonna get an introduction to NumPy from a freeCodeCamp course "https://www.youtube.com/watch?v=QUT1VHiLmmI".
+Now i completed my Numpy course and i am now familiar with why is numpy preferred over list, many concepts of numpy such as arrays and funtions related to it, stack, stats, linear algebra and some boolean masking and advance indexing
+All of it is stored in NumPy file. 

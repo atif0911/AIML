@@ -1,0 +1,13 @@
+NumPy is a kind of list and was introduced because the list were very slow. NumPy itself is very fast.
+NumPy uses less bytes of memory.
+No type checking when iterating through objects.
+Uses Contiguous memory. whereas list are scattered around.
+Contiguous memory helps in faster SIMD vector processing.
+Effective cache utilization.
+NumPy are list but BETTERRRR...
+
+Applications:
+MATLAB-Mathematics 
+MatPlotLib-Plotting
+Pandas, Connect 4, Digital Photography- Backend
+MAchineLearning.
