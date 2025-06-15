@@ -1,0 +1,8 @@
+Today i started my AIML journey with intro to basic python and its contents
+I am doing it from a youtube oneshot of 4.5hrs lecture "https://www.youtube.com/watch?v=rfscVS0vtbw&t=10s"
+i covered the video till 4:08:31 and i am gonna complete it tomorrow 
+also i will start with basics of Numpy and Pandas if possible.
+Hehehe it was a fun day lol.
+
+Date: 14/06/25.
+AAS signing out
