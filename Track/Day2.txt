@@ -1,3 +1,10 @@
 So far today i finished my python intro course and now i am gonna get an introduction to NumPy from a freeCodeCamp course "https://www.youtube.com/watch?v=QUT1VHiLmmI".
 Now i completed my Numpy course and i am now familiar with why is numpy preferred over list, many concepts of numpy such as arrays and funtions related to it, stack, stats, linear algebra and some boolean masking and advance indexing
 All of it is stored in NumPy file. 
+
+Now i am gonna start my introduction to pandas in python. I am using this youtube video "https://www.youtube.com/watch?v=vmEHCJofslg". Lets get started.
+
+SO now i finished my intro to pandas and now i am familiar with reading a dataset using it. And doing certain operations like reading sorting changing adding deleting saving etc. Regex and Groupby was a bit tricky so i need to look after it once more. Apart from those most of the simpler concepts were easy to grab.
+
+Date: 15/6/2025
+AAS signing out
