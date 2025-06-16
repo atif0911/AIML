@@ -1,0 +1,5 @@
+Yesterday I had a intro to Pandas library and I feel like i should invest more time in Data Analysis So i am gonna try to dive deep into Pandas more. And i found a freeCodeCamp video from youtube which claims to do real life project and deep analysis of data. Link: "https://www.youtube.com/watch?v=gtjxAH8uaP0". 
+I am gonna start it today and lets see how much can i finish today. I am planning to give it 2 days at max. 
+Well the youtube course contains many projects and some of them are premium idk why. but i did finish the first free project n its link is "https://www.datawars.io/data-science-project/637502af-dataframes-practice-working-with-english-words".
+then i did the second project but it was a pro n i realised i already had pokemon dataset with me so i tried to solve it in my jupyter notebook which is present in Pandas Day 2 Pandas.ipynb
+So far i have done this hehehe
