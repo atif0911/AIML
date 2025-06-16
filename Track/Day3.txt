@@ -3,3 +3,23 @@ I am gonna start it today and lets see how much can i finish today. I am plannin
 Well the youtube course contains many projects and some of them are premium idk why. but i did finish the first free project n its link is "https://www.datawars.io/data-science-project/637502af-dataframes-practice-working-with-english-words".
 then i did the second project but it was a pro n i realised i already had pokemon dataset with me so i tried to solve it in my jupyter notebook which is present in Pandas Day 2 Pandas.ipynb
 So far i have done this hehehe
+
+Now i finished this free project "https://www.datawars.io/data-science-project/865c74c4-the-birthday-paradox-in-the-nba" in this i learned about the possible combinations of the data set. ANd i learned about the probability function "p(n)=1-((364/365)**(nC2))" where n is the number of people. this function gives us the probability of 2 people having same birthday among n people. also for a 50%+ prob we need atleast n=23 and for 100% we need n=366.
+
+Next i did the free project "https://www.datawars.io/data-science-project/1a9c84e4-matching-strings-by-similarity-using-levenshtein-distance" in this i learned about Levenshtein distance which gives us the partial ratio of matching for 2 strings and if the ratio is more than 0.9 we can take it as a good match. 
+Eg:
+CSV 1	CSV 2	Ratio Score
+0	Adobe Systems, Inc.	AAA Northern California, Nevada & Utah Auto Ex...	32
+1	Adobe Systems, Inc.	ACCO Engineered Systems	64
+2	Adobe Systems, Inc.	Adams County Retirement Plan	41
+3	Adobe Systems, Inc.	Adidas America, Inc.	50
+4	Adobe Systems, Inc.	Adobe Systems, Inc.	100
+5	Adobe Systems, Inc.	Advanced Micro Devices, Inc.	59
+6	Adobe Systems, Inc.	AECOM Technology Corporation	29
+7	Adobe Systems, Inc.	Aera Energy LLC	35
+8	Adobe Systems, Inc.	Aerojet Rocketdyne Holdings, Inc.	54
+9	Adobe Systems, Inc.	Agilent Technologies, Inc.	60
+
+
+Date : 16.6.25
+AAS signing out hahaha
