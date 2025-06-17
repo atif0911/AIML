@@ -2,3 +2,12 @@ So today i am gonna analyse google play store data set and try to solve some que
 I have the data set in my Pandas/Day3 folder.
 All my work for it is stored in Pandas/Day3/Pandas.ipynb
 Here i learned more about Data Cleaning, it was pretty long but it was fun!!! hehehe
+
+I now did a pretty interesting project from "https://www.datawars.io/data-science-project/b0dc1cc3-premier-league-match-analysis" and in this i learned more about data cleaning using a english premier league data set and i got introduced to groupby function a bit. thats pretty much it for today.
+
+i am still left with one more more project. but i am gonna brush up all the things i learned before doing it cuz its more focused to groupby function. Lets see. Its gonna take 1 more day atleast i guess. 
+
+That is it for today.
+Date: 17/6/25
+
+AAS signing off hehehehehhe
