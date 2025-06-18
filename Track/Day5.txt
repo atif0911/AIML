@@ -1,0 +1,11 @@
+So today i did a pretty touch and lengthy project from the same source lol : "https://www.datawars.io/data-science-project/b8efa63d-capstone-project-nba-2017-season-analysis" and through this i learned alot more about data cleaning , filtering and analysis. 
+
+till yesterday groupby() seemed pretty tough but today after practicing so much it feels easier. 
+Also to understand my learning better i added an interesting question in my yesterday's pandas.ipynb file of finding 'The most reviewed app in each group' and it was pretty interesting. And with this i am now gonna move to next topic. And gonna revise the earlier topics later on.
+
+i am done for today i guess. 
+
+SO hehehehehhe
+
+Date: 18/6/25
+AAS signing offf heeheheheehehehehehe
