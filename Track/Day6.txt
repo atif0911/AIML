@@ -1,2 +1,7 @@
 So today i learnt about the things i already knew back from my last sem about stats like mean median mode quantile n all 
 and i focused on its syntaxes cuz i knew about the concepts. So i have stored my content in Stats with an example puny data set and some operations on it. 
+
+Now i brushed up the concepts of groupby and agg methods. N stored my content in GroupByAgg folder.
+
+Date: 20/6/25
+AAS Signing off...
