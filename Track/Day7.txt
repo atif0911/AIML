@@ -1,0 +1,17 @@
+So today i started with basics of Data visualisation using MatPlotLib in python
+I learned about pyPlot.
+In pyPlot i got introduced with functions of data visualisation with plot,bar,hist,scatter.
+
+Today i didnt play with any dataset to be exact except for countries population dataset for data visualisation.
+
+I feel so exausted today idky.
+
+Anyways that is it for today.
+ 
+For tomorrow i am gonna planning to finish this MatPlotLib and try to explore seaborns if possible and heatmaps n all. 
+
+lets see
+
+AAS signing offffff....
+
+Date : 20/06/2025
