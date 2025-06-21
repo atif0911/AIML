@@ -3,3 +3,10 @@ Today i finished my intro to MatplotLib and did a project for visualise a Netfli
 Now i took a introduction to seaborns data visualisation. It is similar to matplotlib i guess. I got to know about iris inbuilt data set in seaborns hehehe
 
 that is it so far.
+
+I started doing a very interesting analysis on friends dataset. Which is stored in Friends folder. I am yet to finish this project. So far i enjoyed it.
+
+That is it for today!
+AAS signing off
+
+date: 21/6/25
