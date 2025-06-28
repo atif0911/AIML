@@ -1,0 +1,13 @@
+In the last couple of days i started Machine Learning. Starting with the types of machine learning such as Supervised and Unsuperwised learning. Followed by More on Supervised learning like Classification and regression.
+In Classification i learned about Logistic regression, Naive Bayes(probability), Kth Nearest Neighbour. In regression I learned about linear regression. 
+I learned about Decision trees, Random forest also. 
+
+Then i studied about Ensemble Learning which uses multiple models to train using Bagging, Boosting, Stacking.
+I focused more on the theoretical part lately and Today i started a practical course on ML from freecodecamp.
+
+HEHEHE this is fun so far...
+
+That is it for today.
+
+date: 29/6/25
+AAS Signing off
